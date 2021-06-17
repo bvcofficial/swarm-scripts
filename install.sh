@@ -10,7 +10,7 @@ wget -O $RunPath/bee-clef/bee-clef_0.4.12_amd64.deb https://github.com/ethersphe
 sudo dpkg -i $RunPath/bee-clef/bee-clef_0.4.12_amd64.deb
 
 # Install bee 0.6.2
-wget -O $RunPath/bee/bee_0.6.1_amd64.deb https://github.com/ethersphere/bee/releases/download/v0.6.2/bee_0.6.2_arm64.deb
+wget -O $RunPath/bee/bee_0.6.2_amd64.deb https://github.com/ethersphere/bee/releases/download/v0.6.2/bee_0.6.2_arm64.deb
 sudo dpkg -i $RunPath/bee/bee_0.6.2_arm64.deb
 
 # Install bee 0.6.1
